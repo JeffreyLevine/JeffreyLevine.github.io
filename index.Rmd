@@ -1,0 +1,65 @@
+---
+title: ""
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+</style>
+
+<div class="row" style="padding-top: 100px;">
+<div class="col-sm-3">
+
+<a href="https://sites.google.com/view/jeffreylevine">
+<img src="images/Me.jpg">
+</a>
+
+<a href="https://jeffreylevine.github.io/going.html">
+<img src="images/Jy.jpg">
+</a>
+
+
+</div>
+
+<div class="col-sm-3">
+
+<a href="https://www.linkedin.com/in/levinejeffrey">
+<img src="images/Li.jpg">
+</a>
+
+<a href="https://jeffreylevine.github.io/going.html">
+<img src="images/Gw.jpg">
+</a>
+
+</div>
+
+<div class="col-sm-3">
+
+<a href="https://jeffreylevine.github.io/DatumsScience.github.io">
+<img src="images/Ds.jpg">
+</a>
+
+<a href="https://jeffreylevine.github.io/going.html">
+<img src="images/Gn.jpg">
+</a>
+
+</div>
+
+<div class="col-sm-3">
+
+<a href="https://public.tableau.com/profile/jeffrey.levine#!/vizhome/BlueCrabLandings/BlueCrab">
+<img src="images/Tb.jpg">
+</a>
+
+<a href="https://jeffreylevine.github.io/going.html">
+<img src="images/Xy.jpg">
+</a>
+
+</div>
+
+
+
+
+

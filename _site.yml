@@ -1,0 +1,10 @@
+name: ""
+output_dir: "."
+navbar:
+  left:
+    - text: "JeffreyLevine.com"
+      href: index.html
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
