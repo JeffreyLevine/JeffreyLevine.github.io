@@ -16,7 +16,7 @@ title: ""
 <img src="images/Me.jpg">
 </a>
 
-<a href="https://jeffreylevine.github.io/going.html">
+<a href="https://jeffreylevine.github.io/jupyter.html">
 <img src="images/Jy.jpg">
 </a>
 
@@ -29,7 +29,7 @@ title: ""
 <img src="images/Li.jpg">
 </a>
 
-<a href="https://jeffreylevine.github.io/going.html">
+<a href="https://jeffreylevine.github.io/wild.html">
 <img src="images/Gw.jpg">
 </a>
 
@@ -53,7 +53,7 @@ title: ""
 <img src="images/Tb.jpg">
 </a>
 
-<a href="https://jeffreylevine.github.io/going.html">
+<a href="https://jeffreylevine.github.io/fun.html">
 <img src="images/Xy.jpg">
 </a>
 
