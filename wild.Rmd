@@ -2,7 +2,24 @@
 title: ""
 ---
 
+<br>
+
 ![](images/Wb.jpg)
 
-### The Page in progress...
-* Back to [JeffreyLevine.com](http://www.jeffreylevine.com)
+<br>
+
+#### **The 1st Rule of Spreadsheets:** know when not to use spreadsheets...
+#### **The 2nd Rule of Spreadsheets:** identify better options than spreadsheets...
+#### **The 3rd Rule of Spreadsheets:** disregard above rules and always use spreadsheets!!!
+
+<br>
+
+#### **Do you follow the 3rd Rule of Spreadsheets?**
+If you do, don't worry, it's not your fault. I totally understand. I use spreadsheets almost every day. They can definitely be the right tools for the job, until they're not. We all know darn well when they're not and we all follow **The 1st Rule of Spreadsheets**. Unfortunately it's highly unlikely that the better options from **The 2nd Rule of Spreadsheets** are available to you. These options usually aren't available because they're often believed to be too complicated for most people who work with data. I disagree. These options are not as complicated as they're often perceived. I'll elaborate more here when I finish the rest of my site, but for now please head back to [JeffreyLevine.com](http://www.jeffreylevine.com) to check out some of these options for yourself. I've been trying to retire [SpreadsheetsGoneWild.com](http://www.spreadsheetsgonewild.com) for a while now anyway, it's a long story...  *Thanks, Jeff*
+
+
+
+
+
+
+

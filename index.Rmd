@@ -16,7 +16,7 @@ title: ""
 <img src="images/Me.jpg">
 </a>
 
-<a href="https://jeffreylevine.github.io/jupyter.html">
+<a href="https://github.com/JeffreyLevine/Notebooks/blob/master/JupyterNotebooks.ipynb">
 <img src="images/Jy.jpg">
 </a>
 
