@@ -2,11 +2,49 @@
 title: ""
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+
+</style>
+
+<div class="row" style="padding-top: 100px;">
+<div class="col-sm-8">
+
+<a>
+<img src="images/Gn.jpg" width="400px">
+</a>
+
+### How To Be Successful At *EVERYTHING* You Try...
+Hi, I'm Jeff Levine and I never fail at anything, not ever, *NEVER!* I try new things all the time and I'm 100% successful at all of them. Want to know my secret? I go into everything I try with one simple goal: find out whether I'm any good at it. Turns out I'm pretty stinky at lots of things I try and quickly give up, but each time I try I'm able to find out and successfully achieve my goal. **Total success every time!** So simple, why didn't you think of that?  Around 5 years ago I got started using Data Science Tools to try complicated Data Science things like Artificial Intelligence and building Neural Networks. Holy mother of goodness was that stuff hard, I was totally stinky, quickly gave up, but I found out. **Rack up another big success for me!!!**
+
+Very seriously now, in the process I was pleasantly surprised to find out how easy these tools were to use, and their many significant advantages, for working with data in ways that are usually attempted with typical analytical tools like spreadsheets and business intelligence. Based on, among other things, seeing [Spreadsheets Gone Wild](http://www.SpreadsheetsGoneWild.com) everywhere, I can only assume most people don't know how easy this is. It's not unreasonable to think these tools are only for complicated Data Science things, which to some extent was a mistake I also made at first. So I got to thinking I would try something new and build a website to demonstrate this. **I have no doubt I'll be 100% successfull at this try, as I always am!** 
+
+Unfortunately it's looking like I might be stinky at this and quickly give up, but I don't know yet because I'm still trying (quickly is more than like a few days, of course, you do have to really try, no joking here). I'm giving myself until 12.31.17. Hopefully I'll find out I'm at least ok and, if you work with data, you'll find this helpful. I made this page 12.02.17, just to let you know my site hasn’t been sitting here with my “in progress” excuse for too long. It's not so good yet, but please stick with me as I try my best. Feel feel to click around and check it out so far and let me know what you think.
+
+
+### How To Quickly "Get Going Now!" And Succeed...
+1. Understand Data Science Tools are not just for complicated things
+2. Understand they're pretty easy to use for what you need from data
+    * I'm assuming you work with data
+    * I'm assuming you don't like [Spreadsheets Gone Wild](http://www.SpreadsheetsGoneWild.com)
+3. Give it a try to find out whether it's your cup of tea
+    * Install [Jupyter Notebooks](http://jupyter.org/install.html) with [R Essentials](https://anaconda.org/r/r-essentials)
+    * And/Or Install [R Studio](https://www.rstudio.com/products/rstudio/download)
+    * Start trying and learning
+
+Please keep in mind the main goal of my site, at least for now, is helping with Steps 1 & 2, so you can get to Step 3. The problem I hope to solve, as I see it, is the incorrect assumption that these tools are only for complicated things, they're too hard and time consuming to learn, and therefore will result in the incorrect conclusion of **"No Step 3 for me."** I hope to help you get to Step 3! As far as Step 3, I think it's unnecessary for me to help with that because there are already tons of brilliant people that have created tons of awesome resources for learning. I'll include links when I get to it. The learning part is pretty easy anyway, once you understand that [Pacakges](https://en.wikipedia.org/wiki/R_(programming_language)#Packages) do all the hard stuff for you. To sum up, I see no shortage of Step 3 help, but I do see a lack of Step 1 & 2 help, so that's what I'm trying to do here. I have lots more to do and I'm going to try my best. Again, I hope you find this helpful.
+
+*Thanks, Jeff*
+    
+
+<br>
 <br>
 
-![](images/Gn.jpg){width=50%}
+
 
 <br>
+<br>
 
-### The Page in progress...
-* Back to [JeffreyLevine.com](http://www.jeffreylevine.com)
+</div>
